@@ -1,0 +1,9 @@
+.back{
+  background-image: url('./hotel2.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
